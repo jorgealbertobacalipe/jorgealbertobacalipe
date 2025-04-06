@@ -1,5 +1,5 @@
 -<h1 align="center">Hi 👋, I'm Jorge Alberto Baca lipe</h1>
-<h3 align="center">Soy programador apasionado</h3>
+<h3 align="center">Soy un programador apasionado</h3>
 
 - 💬 Ask me about **Python, R, javascript**
 
